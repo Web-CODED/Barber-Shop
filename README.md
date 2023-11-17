@@ -27,18 +27,15 @@ To run **Barber** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/barber.git
+sudo git clone https://github.com/Web-CODED/Barber-Shop.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/barber.git
+git clone https://github.com/Web-CODED/Barber-Shop.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
